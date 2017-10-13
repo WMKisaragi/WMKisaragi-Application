@@ -1,1 +1,3 @@
 # WMKisaragi-Application
+
+--test
